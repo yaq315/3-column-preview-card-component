@@ -1,0 +1,47 @@
+.task1{
+margin:50 px;padding:50px;
+display: grid;
+grid-template-columns:repeat(3,1fr);
+height: 500px;
+font-size: 15px;
+
+  font-family: "Lexend Deca", serif;
+  
+}
+.task1 div{ 
+padding: 20px;
+display: grid;
+}
+.sedans{
+background-color: hsl(31, 77%, 52%) ;
+}
+.suvs{
+ background-color:  hsl(184, 100%, 22%)
+}
+.luxury{
+   background-color: hsl(179, 100%, 13%)
+}
+.paragragph{
+    color: hsl(0, 0%, 95%) ;
+}
+.paragragph1{
+   color:hsla(0, 0%, 100%, 0.75) ; 
+}
+.paragragph2{
+    border-radius:20px;padding: 10px;
+    background-color: hsl(0, 0%, 95%) ;
+    color: hsl(31, 77%, 52%)
+}
+.paragragph22{
+    border-radius:20px;padding: 10px;
+    background-color: hsl(0, 0%, 95%);
+    color:  hsl(184, 100%, 22%)
+}
+.paragragph222{
+    border-radius:20px;padding: 10px;
+    background-color: hsl(0, 0%, 95%) ;
+    color: hsl(179, 100%, 13%)
+}
+
+
+
